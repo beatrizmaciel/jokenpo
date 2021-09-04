@@ -1,9 +1,10 @@
-import React from 'react'
-import hello from '../src/assets/img/hello.png';
-import scissors from './assets/img/scissors.png';
-import stone from './assets/img/stone.png';
-import fox from './assets/img/fox.png';
-import chatbot from './assets/img/chatbot.png';
+import React from 'react';
+import '/Users/beatrizmaciel/my-app/src/components/box/style.css';
+import hello from '/Users/beatrizmaciel/my-app/src/assets/img/hello.png';
+import scissors from '/Users/beatrizmaciel/my-app/src/assets/img/scissors.png';
+import stone from '/Users/beatrizmaciel/my-app/src/assets/img/stone.png';
+import fox from '/Users/beatrizmaciel/my-app/src/assets/img/fox.png';
+import chatbot from '/Users/beatrizmaciel/my-app/src/assets/img/chatbot.png';
 
 function Box(){
     return(
