@@ -1,3 +1,5 @@
+
+import React from 'react';
 import './App.css';
 import Box from '/Users/beatrizmaciel/my-app/src/components/box/index.js';
 import Button from './components/button/index';
