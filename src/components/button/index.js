@@ -3,9 +3,9 @@ import './style.css'
 
 function Button(){
     return(
-        <div className="reset-button">
+        <div className="button">
         <a href="#">
-            resetar
+            Resetar
         </a>
         </div>
     )

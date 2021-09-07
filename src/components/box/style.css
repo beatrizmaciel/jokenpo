@@ -1,6 +1,6 @@
 .box {
-    width: 38rem;
-    height: 38rem;
+    width: 34rem;
+    height: 32rem;
     margin: auto;
     margin-top: 2rem;
     padding-top: 1.5rem;
@@ -9,9 +9,9 @@
     border-radius: 5%;
     margin-bottom: 1rem;
   }
-  
+
   .icon-box{
-    margin: 10% 25%;
+    margin: 5% 25%;
     width: 50%;
     display: flex;
     justify-content: space-between;
@@ -28,10 +28,11 @@
   }
   
   .inside-box{
-    width: 30rem;
+    width: 28rem;
     height: 15rem;
     margin: auto;
-    background-color: #fcbfc2;
+    justify-content: space-between;
+    background-color: #fdc8d4;
     border-radius: 5%;
     padding-top: 1rem;
   }

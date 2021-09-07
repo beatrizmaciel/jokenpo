@@ -4,7 +4,7 @@ import './style.css'
 function Footer(){
     return(
         <div className="footer">
-        <h1>Feito com ♡ <a href="https://github.com/beatrizmaciel">Beatriz Maciel</a></h1>
+        <h1>Feito com ♡ por <a href="https://github.com/beatrizmaciel">Beatriz Maciel</a></h1>
         </div>
     )
 }

@@ -1,8 +1,4 @@
-.button{
-    background-color: black;
-  }
-  
-.reset-button {
+.button {
     width: 12rem;
     height: 3rem;
     padding-top: 1rem;
@@ -11,10 +7,12 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: white;
     border-radius: 30%;
+    border: 1px solid #fcbdca;
   }
 
-a {
-   color: black; 
+.button a {
+   color: rgb(61, 3, 53); 
+   font-weight: 800;
    text-decoration: none;
    font-size: larger;
 }

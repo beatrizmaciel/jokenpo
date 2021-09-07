@@ -5,6 +5,8 @@
 
 .footer a {
     font-size: 12px;
+    font-weight: 600;
+    text-decoration: dotted;
     color: rgb(110, 16, 52);
 }
 
